@@ -20,3 +20,6 @@ The vision of this project is to create a decentralized fitness ecosystem where 
 
 ## Contract Address
 0xc89eA4031899e4765921541F279DC06c3990aE7A
+
+
+![image](https://github.com/user-attachments/assets/08515b7f-bed3-46b2-8a98-3b44a351e154)
